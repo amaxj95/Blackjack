@@ -1,5 +1,6 @@
 #!/usr/bin/env
 #-*- coding: utf-8 -*-
+#Authored by Aus10
 
 from random import shuffle
 
